@@ -839,7 +839,7 @@ a:active {
 }
 
 .img-container.owl-carousel {
-  padding-top: 2rem;
+  padding-top: 0.2rem;
 }
 
 .img-container > img {
